@@ -1,0 +1,12 @@
+{
+    "title": "Force Haut du corps",
+    "objective": "Développement musculaire haut du corps",
+    "exercises": [
+      { "name": "Développé couché haltères", "series": 4, "reps": 10, "charge": 12, "rest_seconds": 90 },
+      { "name": "Rowing haltères", "series": 4, "reps": 12, "charge": 10, "rest_seconds": 60 },
+      { "name": "Dips sur banc", "series": 3, "reps": 15, "rest_seconds": 60 },
+      { "name": "Curl biceps haltères", "series": 3, "reps": 12, "charge": 8, "rest_seconds": 60 },
+      { "name": "Extensions triceps haltères", "series": 3, "reps": 12, "charge": 8, "rest_seconds": 60 }
+    ]
+  }
+  

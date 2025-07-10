@@ -1,0 +1,12 @@
+{
+    "title": "Programme Full Body",
+    "objective": "Musculation complète",
+    "exercises": [
+      { "name": "Pompes", "series": 4, "reps": 15, "charge": 0, "rest_seconds": 60 },
+      { "name": "Squats avec haltères", "series": 4, "reps": 12, "charge": 15, "rest_seconds": 90 },
+      { "name": "Tractions assistées", "series": 3, "reps": 10, "charge": 0, "rest_seconds": 90 },
+      { "name": "Développé épaules haltères", "series": 3, "reps": 12, "charge": 8, "rest_seconds": 60 },
+      { "name": "Gainage planche", "series": 3, "duration_seconds": 60, "rest_seconds": 30 }
+    ]
+  }
+  
