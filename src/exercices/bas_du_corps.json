@@ -1,0 +1,12 @@
+{
+    "title": "Programme Bas du corps",
+    "objective": "Renforcement jambes et fessiers",
+    "exercises": [
+      { "name": "Squats barre", "series": 4, "reps": 10, "charge": 20, "rest_seconds": 90 },
+      { "name": "Fentes marchées", "series": 3, "reps": 12, "charge": 12, "rest_seconds": 60 },
+      { "name": "Soulevé de terre jambes tendues", "series": 3, "reps": 12, "charge": 20, "rest_seconds": 90 },
+      { "name": "Hip Thrust", "series": 3, "reps": 15, "charge": 15, "rest_seconds": 60 },
+      { "name": "Chaise statique", "series": 3, "duration_seconds": 45, "rest_seconds": 60 }
+    ]
+  }
+  
