@@ -1,0 +1,12 @@
+{
+    "title": "Cardio intense",
+    "objective": "Endurance et perte de graisse",
+    "exercises": [
+      { "name": "Burpees", "series": 4, "reps": 15, "rest_seconds": 60 },
+      { "name": "Jumping jacks", "series": 4, "reps": 30, "rest_seconds": 45 },
+      { "name": "Mountain climbers", "series": 4, "duration_seconds": 30, "rest_seconds": 30 },
+      { "name": "Sprint sur place", "series": 4, "duration_seconds": 30, "rest_seconds": 45 },
+      { "name": "Corde à sauter", "series": 4, "duration_seconds": 60, "rest_seconds": 60 }
+    ]
+  }
+  

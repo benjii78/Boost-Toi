@@ -1,0 +1,12 @@
+{
+    "title": "Gainage et abdominaux",
+    "objective": "Renforcement du centre du corps",
+    "exercises": [
+      { "name": "Planche avant", "series": 3, "duration_seconds": 60, "rest_seconds": 45 },
+      { "name": "Crunch abdominal", "series": 4, "reps": 20, "rest_seconds": 45 },
+      { "name": "Gainage latéral droit", "series": 3, "duration_seconds": 45, "rest_seconds": 30 },
+      { "name": "Gainage latéral gauche", "series": 3, "duration_seconds": 45, "rest_seconds": 30 },
+      { "name": "Relevés de jambes", "series": 3, "reps": 15, "rest_seconds": 60 }
+    ]
+  }
+  
